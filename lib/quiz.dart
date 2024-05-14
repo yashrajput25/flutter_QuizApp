@@ -59,7 +59,7 @@ class _QuizState extends State<Quiz> {
     return MaterialApp(
       home: Scaffold(
         appBar: AppBar(
-          title: const Text("Quiz App"),
+          title: const Text("Flutter Quiz App"),
           backgroundColor: Colors.purple,
         ),
         body: Container(
