@@ -20,7 +20,6 @@ An interactive and user-friendly quiz application built with Flutter, designed t
 - Multiple-choice questions covering diverse topics.
 - Real-time scoring system to track your progress.
 - Instant feedback on answers with correct solutions.
-- User authentication for personalized experience.
 - Responsive design compatible with both Android and iOS devices.
 
 ## **Screenshots**
